@@ -1,0 +1,19 @@
+title = "London & Newcastle"
+languageCode = "en-us"
+contentdir = "content"
+publishdir = "docs"
+builddrafts = false
+baseUrl = ""
+canonifyurls = true
+author = "admin"
+theme = "pixyll"
+disqusShortname = "sitename"
+
+[indexes]
+  category = "categories"
+  tag = "tags"
+
+[params]
+  # google_analytics_id = "XX-XXXXXXXX-X"
+  # twitter_username = "username"
+  # paginate = 10
