@@ -8,4 +8,4 @@ jobs:
       - image: cibuilds/hugo:latest
     working_directory: ~/hugo
     steps:
-      - run: hugo
+      - run: hugo -d docs
