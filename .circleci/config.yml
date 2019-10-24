@@ -6,7 +6,7 @@ jobs:
       - image: felicianotech/docker-hugo
     working_directory: ~/hugo
     environment:
-      HUGO_BUILD_DIR: ~/hugo/docs
+      HUGO_BUILD_DIR: docs
     steps:
 
       # install git
