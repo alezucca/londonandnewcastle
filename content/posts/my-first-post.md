@@ -12,4 +12,4 @@ Hello there!
 
 This is the very first **post**.
 
-My first post.
+My _amazing_ first post.
