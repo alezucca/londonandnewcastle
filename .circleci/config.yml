@@ -10,4 +10,4 @@ jobs:
     environment:
       HUGO_BUILD_DIR: ~/hugo/docs
     steps:
-      - run: hugo
+      - run: hugo -c config.toml
