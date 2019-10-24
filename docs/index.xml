@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>London &amp; Newcastle on London &amp; Newcastle </title>
@@ -6,12 +7,12 @@
     <language>en-us</language>
     
     
-    <updated>Tue, 17 Sep 2019 09:14:10 &#43;0000</updated>
+    <updated>Tue, 17 Sep 2019 09:14:10 UTC</updated>
     
     <item>
       <title>About</title>
       <link>/about/</link>
-      <pubDate>Tue, 17 Sep 2019 09:14:10 &#43;0000</pubDate>
+      <pubDate>Tue, 17 Sep 2019 09:14:10 UTC</pubDate>
       
       <guid>/about/</guid>
       <description>London &amp;amp; Newcastle about
@@ -21,12 +22,12 @@ This is London &amp;amp; Newcastle and this is the about page</description>
     <item>
       <title>My First Post</title>
       <link>/posts/my-first-post/</link>
-      <pubDate>Mon, 16 Sep 2019 16:17:29 &#43;0000</pubDate>
+      <pubDate>Mon, 16 Sep 2019 16:17:29 UTC</pubDate>
       
       <guid>/posts/my-first-post/</guid>
       <description>Hello there!
 This is the very first post.
-My first post.</description>
+My amazing first post.</description>
     </item>
     
   </channel>
