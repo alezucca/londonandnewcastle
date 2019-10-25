@@ -1,6 +1,6 @@
 +++
 date = "2019-03-06T00:00:00+00:00"
-title = "Body without Organs and Black Swan"
+title = "The Body without Organs and Aronofsky's Black Swan"
 
 +++
 ![](/uploads/natalie-portman-21468.jpg)
