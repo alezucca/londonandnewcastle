@@ -7,17 +7,7 @@
     <language>en-us</language>
     
     
-    <updated>Tue, 17 Sep 2019 09:14:10 UTC</updated>
-    
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Tue, 17 Sep 2019 09:14:10 UTC</pubDate>
-      
-      <guid>/about/</guid>
-      <description>London &amp;amp; Newcastle about
-This is London &amp;amp; Newcastle and this is the about page</description>
-    </item>
+    <updated>Mon, 16 Sep 2019 16:17:29 UTC</updated>
     
     <item>
       <title>My First Post</title>
@@ -28,6 +18,16 @@ This is London &amp;amp; Newcastle and this is the about page</description>
       <description>Hello there!
 This is the very first post.
 My amazing first post.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Wed, 09 Jan 2019 10:14:10 UTC</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Welcome to London &amp;amp; Newcastle
+A blog dedicated to literature, critical theory, and all things academic.</description>
     </item>
     
   </channel>
