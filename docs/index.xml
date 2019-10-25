@@ -20,17 +20,6 @@ Feel free to contact me about submissions, joining a podcast episode or anything
     </item>
     
     <item>
-      <title>My First Post</title>
-      <link>/posts/my-first-post/</link>
-      <pubDate>Mon, 16 Sep 2019 16:17:29 UTC</pubDate>
-      
-      <guid>/posts/my-first-post/</guid>
-      <description>Hello there!
-This is the very first post.
-My amazing first post.</description>
-    </item>
-    
-    <item>
       <title>Podcasts</title>
       <link>/podcasts/</link>
       <pubDate>Wed, 31 Jul 2019 23:00:00 UTC</pubDate>
@@ -39,6 +28,16 @@ My amazing first post.</description>
       <description>Podcasts
 All of the London &amp;amp; Newcastle podcast episodes are available here:
 Academic podcasts that I&amp;rsquo;ve been involved in:</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>/posts/my-first-post/</link>
+      <pubDate>Wed, 09 Jan 2019 17:17:29 UTC</pubDate>
+      
+      <guid>/posts/my-first-post/</guid>
+      <description>Hi and welcome to London &amp;amp; Newcastle!
+I&amp;rsquo;ve been working on my undergraduate thesis, and I got chatting to my supervisor about academic blogs. She was saying that reliable academic blogs are certainly a good source, and it&amp;rsquo;s important for Academia in general to remain up to date with changes in technology. Of course, this is not to say that journals, books, and printed articles are going to be replaced, but simply that academic blogs can also be useful.</description>
     </item>
     
     <item>

@@ -6,7 +6,7 @@
     <description>Recent content in Hello on London &amp; Newcastle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Sep 2019 16:17:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Jan 2019 17:17:29 +0000</lastBuildDate>
     
 	<atom:link href="/tags/hello/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,12 +14,11 @@
     <item>
       <title>My First Post</title>
       <link>/posts/my-first-post/</link>
-      <pubDate>Mon, 16 Sep 2019 16:17:29 +0000</pubDate>
+      <pubDate>Wed, 09 Jan 2019 17:17:29 +0000</pubDate>
       
       <guid>/posts/my-first-post/</guid>
-      <description>Hello there!
-This is the very first post.
-My amazing first post.</description>
+      <description>Hi and welcome to London &amp;amp; Newcastle!
+I&amp;rsquo;ve been working on my undergraduate thesis, and I got chatting to my supervisor about academic blogs. She was saying that reliable academic blogs are certainly a good source, and it&amp;rsquo;s important for Academia in general to remain up to date with changes in technology. Of course, this is not to say that journals, books, and printed articles are going to be replaced, but simply that academic blogs can also be useful.</description>
     </item>
     
   </channel>
