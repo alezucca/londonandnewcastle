@@ -4,6 +4,8 @@ draft = true
 title = "Body without Organs and Black Swan"
 
 +++
+![](/uploads/natalie-portman-21468.jpg)
+
 We have an essay due for our critical theory module this semester and I've chosen a topic that looks at deconstruction.
 
 This is the title:
