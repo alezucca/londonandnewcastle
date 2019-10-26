@@ -1,10 +1,12 @@
-+++
-title = "The Body without Organs and Aronofsky's Black Swan"
-date = "2019-03-06T00:00:00+00:00"
-type = post
-author = Alessia Zuccarelli
-tags = [black swan]
-+++
+---
+title: "The Body without Organs and Aronofsky's Black Swan"
+date: "2019-03-06T00:00:00+00:00"
+type: post
+author: Alessia Zuccarelli
+tags:
+- black swan
+
+---
 ![](/uploads/natalie-portman-21468.jpg)
 
 We have an essay due for our critical theory module this semester and I've chosen a topic that looks at deconstruction.
