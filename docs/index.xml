@@ -7,7 +7,16 @@
     <language>en-us</language>
     
     
-    <updated>Tue, 17 Sep 2019 09:19:01 UTC</updated>
+    <updated>Wed, 30 Oct 2019 10:28:45 UTC</updated>
+    
+    <item>
+      <title>Test post</title>
+      <link>/blog/2019-10-30-test-post/</link>
+      <pubDate>Wed, 30 Oct 2019 10:28:45 UTC</pubDate>
+      
+      <guid>/blog/2019-10-30-test-post/</guid>
+      <description>This is Marco&amp;rsquo;s test blog post</description>
+    </item>
     
     <item>
       <title>Contact</title>
