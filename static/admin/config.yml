@@ -17,5 +17,6 @@ collections:
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Type', name: 'type', widget: 'string', default: 'post' }
       - { label: 'Author', name: 'author', widget: 'string', default: 'Alessia Zuccarelli' }
-      - {label: "Draft", name: "draft", widget: "boolean", default: true}
+      - { label: "Draft", name: "draft", widget: "boolean", default: true}
+      - { label: "Tags", name: "tags", widget: "list" }
       - { label: 'Body', name: 'body', widget: 'markdown' }
