@@ -1,9 +1,10 @@
-+++
-date = "2019-04-19T13:39:00+00:00"
-draft = true
-title = "Matrixial Borderspaces"
-
-+++
+---
+title: Matrixial Borderspaces
+date: '2019-04-19T13:39:00+00:00'
+type: post
+author: Alessia Zuccarelli
+draft: true
+---
 For my dissertation for my undergraduate degree, I decided to look into South African films. I chose _Sink_ (Innes 2015) and _Tsotsi_ (). Sink is a relatively recent, independent film that revolves around 2 female protagonists, while Tsotsi is a mainstream film that won an Academy Award in 2005 and a Golden Globe in 2006.
 
 Before I began my research, I watched as many South African films as I could, including _Noem My Skollie, Dis Ek Anna, Ayanda_, to name a few. I would have liked to watch more, but I found that the number of movies that were available overseas was frustratingly limited. After watching these, plus the two that I eventually ended up writing on, I knew that I wanted to examine the role of the mother.
