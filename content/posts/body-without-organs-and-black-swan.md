@@ -5,6 +5,7 @@ description: >-
   The idea of the self as a fixed entity is challenged by deconstruction and
   poststructural feminism.
 type: post
+author: Alessia Zuccarelli
 ---
 ![](/uploads/natalie-portman-21468.jpg)
 
