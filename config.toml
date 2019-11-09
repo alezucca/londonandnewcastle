@@ -7,7 +7,7 @@ baseUrl = ""
 canonifyurls = true
 author = "admin"
 theme = "pixyll"
-disqusShortname = "sitename"
+disqusShortname = "london-and-newcastle"
 
 [indexes]
   category = "categories"
