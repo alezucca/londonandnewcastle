@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Podcast on London &amp; Newcastle</title>
+    <link>/tags/podcast/</link>
+    <description>Recent content in Podcast on London &amp; Newcastle</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Nov 2019 15:44:36 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/podcast/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Podcasts on Apple!</title>
+      <link>/posts/2019-11-08-podcasts-on-apple/</link>
+      <pubDate>Fri, 08 Nov 2019 15:44:36 +0000</pubDate>
+      
+      <guid>/posts/2019-11-08-podcasts-on-apple/</guid>
+      <description>We&amp;rsquo;re live on the Apple podcasts app! Click here for more!</description>
+    </item>
+    
+  </channel>
+</rss>
