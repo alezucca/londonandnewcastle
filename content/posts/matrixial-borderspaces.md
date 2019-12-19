@@ -5,7 +5,7 @@ type: post
 author: Alessia Zuccarelli
 draft: false
 tags:
-  - '#cinema #matrixial #ettinger #dissertation'
+  - cinema matrixial ettinger dissertation
 ---
 For my dissertation for my undergraduate degree, I decided to look into South African films. I chose *Sink* (Innes 2015) and *Tsotsi* (Fudakowski 2005). Sink is a relatively recent, independent film that revolves around 2 female protagonists, while Tsotsi is a mainstream film that won an Academy Award in 2005 and a Golden Globe in 2006.
 
@@ -25,7 +25,6 @@ References:
 
 Balseiro, I. and Masilela, N. (2003) *To Change Reels: Film and Culture in South Africa*, Detroit: Wayne State University Press.
 
-Fudakowski, P. (2005) Tsotsi [film], Johannesburg: Ster-Kinekor Pictures.Fudakowski, P. (2005) Tsotsi [film], Johannesburg: Ster-Kinekor Pictures.
+Fudakowski, P. (2005) Tsotsi \[film], Johannesburg: Ster-Kinekor Pictures.Fudakowski, P. (2005) Tsotsi \[film], Johannesburg: Ster-Kinekor Pictures.
 
-Innes, B.M. (2015) Sink [film], Johannesburg: Times Media Films.Innes, B.M. (2015) Sink [film], Johannesburg: Times Media Films.
-
+Innes, B.M. (2015) Sink \[film], Johannesburg: Times Media Films.Innes, B.M. (2015) Sink \[film], Johannesburg: Times Media Films.
