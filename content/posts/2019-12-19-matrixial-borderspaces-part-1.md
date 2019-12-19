@@ -3,7 +3,7 @@ title: Matrixial Borderspaces Part 1
 date: 2019-03-28T10:09:47.813Z
 type: post
 author: Alessia Zuccarelli
-draft: true
+draft: false
 ---
 ![]()
 
