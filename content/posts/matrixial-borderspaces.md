@@ -15,4 +15,8 @@ Again, limited by time restraints, and to a certain extent access to resources, 
 
 I wanted to approach this research in a different way. I wanted to take a new critical lens, and I wanted to examine the way in which these female relationships can be analyzed in this context. 
 
-This is where the Matrixial Borderspaces came in.
+This is where the Matrixial Borderspaces came in. 
+
+References:
+
+Balseiro, I. and Masilela, N. (2003) *To Change Reels: Film and Culture in South Africa*, Detroit: Wayne State University Press.
