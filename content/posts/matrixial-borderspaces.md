@@ -1,5 +1,5 @@
 ---
-title: Matrixial Borderspaces
+title: Matrixial Borderspaces Part 2 - South African Cinema
 date: '2019-04-19T13:39:00+00:00'
 type: post
 author: Alessia Zuccarelli
@@ -18,6 +18,8 @@ Again, limited by time restraints, and to a certain extent access to resources, 
 I wanted to approach this research in a different way. I wanted to take a new critical lens, and I wanted to examine the way in which these female relationships can be analyzed in this context. 
 
 This is where the Matrixial Borderspaces came in. 
+
+As I mentioned in my previous post, I am hesitant to attempt to summarize the concept as it defies simplification. In the next post, I will share a small excerpt from my dissertation that I believe exemplifies the potential of the matrixial.
 
 References:
 
