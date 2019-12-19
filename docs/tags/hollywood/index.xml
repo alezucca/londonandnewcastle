@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hollywood on London &amp; Newcastle</title>
+    <link>/tags/hollywood/</link>
+    <description>Recent content in Hollywood on London &amp; Newcastle</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Mar 2019 11:54:47 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/hollywood/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Article on News 24</title>
+      <link>/posts/2019-11-26-article-on-news-24/</link>
+      <pubDate>Tue, 26 Mar 2019 11:54:47 +0000</pubDate>
+      
+      <guid>/posts/2019-11-26-article-on-news-24/</guid>
+      <description>As part of my undergraduate research I&amp;rsquo;ve written an article about cinema in South Africa and the important role it plays in shaping identity.
+This was for an interdisciplinary seminar, and alongside this piece I wrote an academic essay as well. I have done a lot of research into cinema and representation on the big screen this year, and I&amp;rsquo;m hoping to do more research in this area once I&amp;rsquo;ve graduated.</description>
+    </item>
+    
+  </channel>
+</rss>
