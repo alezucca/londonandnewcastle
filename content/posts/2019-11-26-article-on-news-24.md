@@ -5,7 +5,10 @@ type: post
 author: Alessia Zuccarelli
 draft: false
 tags:
-  - colonisation hollywood movies cinema
+  - colonisation
+  - hollywood
+  - movies
+  - cinema
 ---
 As part of my undergraduate research I've written an article about cinema in South Africa and the important role it plays in shaping identity. 
 
