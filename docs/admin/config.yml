@@ -17,6 +17,12 @@ collections:
       - { label: 'Author', name: 'author', widget: 'string', default: 'Alessia Zuccarelli' }
       - { label: "Draft", name: "draft", widget: "boolean", default: true }
       - { label: "Tags", name: "tags", widget: "list", required: false }
+      - label: "Featured Image"
+        name: "thumbnail"
+        widget: "image"
+        media_library:
+          config:
+            multiple: true
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'pages'
     label: 'Pages'
