@@ -6,10 +6,19 @@
     <description>Recent content in Tags on London &amp; Newcastle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Apr 2019 13:39:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Nov 2019 15:44:36 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Apple Podcast</title>
+      <link>/tags/apple-podcast/</link>
+      <pubDate>Fri, 08 Nov 2019 15:44:36 +0000</pubDate>
+      
+      <guid>/tags/apple-podcast/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cinema</title>
@@ -75,6 +84,15 @@
     </item>
     
     <item>
+      <title>Itunes</title>
+      <link>/tags/itunes/</link>
+      <pubDate>Fri, 08 Nov 2019 15:44:36 +0000</pubDate>
+      
+      <guid>/tags/itunes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Matrixial</title>
       <link>/tags/matrixial/</link>
       <pubDate>Fri, 19 Apr 2019 13:39:00 +0000</pubDate>
@@ -98,6 +116,15 @@
       <pubDate>Fri, 08 Nov 2019 15:44:36 +0000</pubDate>
       
       <guid>/tags/podcast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stitcher</title>
+      <link>/tags/stitcher/</link>
+      <pubDate>Fri, 08 Nov 2019 15:44:36 +0000</pubDate>
+      
+      <guid>/tags/stitcher/</guid>
       <description></description>
     </item>
     
