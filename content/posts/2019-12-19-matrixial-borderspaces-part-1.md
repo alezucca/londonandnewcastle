@@ -5,6 +5,8 @@ type: post
 author: Alessia Zuccarelli
 draft: true
 ---
+![]()
+
 What is maternal subjectivity?
 
 This is the question that led me into a rabbit hole of research that took me in surprising and unexpected directions, and which resulted in an undergraduate dissertation that I am really proud of! 
