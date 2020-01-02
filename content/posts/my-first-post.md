@@ -1,12 +1,13 @@
 ---
 title: My First Post
-date: 2019-01-09T17:17:29.000+00:00
+date: 2019-01-09T17:17:29.000Z
 type: post
 author: Alessia Zuccarelli
+draft: false
 tags:
-- hello
-- first post
-
+  - hello
+  - first post
+thumbnail: /uploads/kobu-agency-67L18R4tW_w-unsplash.jpg
 ---
 ![](/uploads/kobu-agency-67L18R4tW_w-unsplash.jpg)
 
@@ -17,6 +18,6 @@ I've been working on my undergraduate thesis, and I got chatting to my superviso
 The blogs I came across in my own research were thought provoking and well written, and I used them as sources in a list of varied and reliable references. This got me to thinking that maybe some of my research or thoughts on certain topics could be of use to someone else. Even if simply to spark an idea or aid in the search for reliable references. 
 
 So in the hope that maybe someone, someday, will find my work useful, I started this blog.  
-  
-I hope you enjoy!  
+
+I hope you enjoy!\
 Alessia
