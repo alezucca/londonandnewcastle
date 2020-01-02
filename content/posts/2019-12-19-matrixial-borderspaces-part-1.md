@@ -4,6 +4,7 @@ date: 2019-03-28T10:09:47.813Z
 type: post
 author: Alessia Zuccarelli
 draft: false
+thumbnail: /uploads/whatsapp-image-2019-04-29-at-23.04.42.jpeg
 ---
 ![]()
 
