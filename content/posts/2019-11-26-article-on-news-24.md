@@ -9,6 +9,7 @@ tags:
   - hollywood
   - movies
   - cinema
+thumbnail: /uploads/jakob-owens-199505-unsplash.jpg
 ---
 As part of my undergraduate research I've written an article about cinema in South Africa and the important role it plays in shaping identity. 
 
