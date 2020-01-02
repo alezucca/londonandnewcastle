@@ -6,7 +6,6 @@ author: Alessia Zuccarelli
 draft: false
 thumbnail: /uploads/whatsapp-image-2019-04-29-at-23.04.42.jpeg
 ---
-![]()
 
 What is maternal subjectivity?
 
