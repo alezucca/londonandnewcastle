@@ -12,14 +12,18 @@
         {{ .Content }}
       </article>
 
-      <div class="post-meta">
-        {{ i18n "tags" }}:&nbsp;
-        {{ range $i, $e := .Params.tags }}
-        {{if $i}},&nbsp;{{end}}
-        <a href="{{ $baseurl }}{{ $.Site.LanguagePrefix }}/tags/{{ . }}">{{ . }}</a>
-        {{ end }}
-        <br>
+      <div class="post-info">
         {{ .Date.Format "Jan 2, 2006" }} by {{ .Params.author }}
+
+        {{ if .Params.tags }}
+        <div class="post-tags">
+          {{ i18n "tags" }}:&nbsp;
+          {{ range $i, $e := .Params.tags }}
+          {{if $i}},&nbsp;{{end}}
+          <a href="{{ $baseurl }}{{ $.Site.LanguagePrefix }}/tags/{{ . }}">{{ . }}</a>
+          {{ end }}
+        </div>
+        {{ end }}
       </div>
 
       {{ partial "comments.html" . }}
