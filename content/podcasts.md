@@ -7,7 +7,7 @@ draft: false
 
 All of the London & Newcastle podcast episodes are available here.
 
-<br /><br />
+<br />
 
 ## 5: Erasmus - With Andrea Busani
 
@@ -40,8 +40,6 @@ All of the London & Newcastle podcast episodes are available here.
 <br /><br />
 
 Academic podcasts that I've been involved in:
-
-<br /><br />
 
 ## The Nerve episode 11: Academic Writing
 
