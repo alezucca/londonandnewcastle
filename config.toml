@@ -6,7 +6,7 @@ builddrafts = false
 baseUrl = ""
 canonifyurls = true
 author = "admin"
-theme = "pixyll"
+theme = "2020"
 disqusShortname = "london-and-newcastle"
 
 [indexes]
