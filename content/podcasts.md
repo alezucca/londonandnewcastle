@@ -41,6 +41,14 @@ All of the London & Newcastle podcast episodes are available here.
 
 Academic podcasts that I've been involved in:
 
+<br /><br />
+
+## The Nerve episode 11: Academic Writing
+
 <iframe src="https://anchor.fm/the-nerve/embed/episodes/Ep-11-Academic-Writing-e2ck6n/a-a5plug" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
+
+<br /><br />
+
+## The Nerve episode 01: Teresa Deevy
 
 <iframe src="https://anchor.fm/the-nerve/embed/episodes/Ep-01-Teresa-Deevy-e16h15/a-a2n499" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
