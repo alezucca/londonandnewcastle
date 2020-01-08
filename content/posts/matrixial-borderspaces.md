@@ -9,6 +9,7 @@ tags:
   - matrixial
   - ettinger
   - dissertation
+thumbnail: /uploads/Screenshot 2019-12-19 at 10.37.15.png
 ---
 For my dissertation for my undergraduate degree, I decided to look into South African films. I chose *Sink* (Innes 2015) and *Tsotsi* (Fudakowski 2005). Sink is a relatively recent, independent film that revolves around 2 female protagonists, while Tsotsi is a mainstream film that won an Academy Award in 2005 and a Golden Globe in 2006.
 
