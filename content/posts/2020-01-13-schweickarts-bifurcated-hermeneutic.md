@@ -11,7 +11,7 @@ tags:
   - feminist theory
 thumbnail: /uploads/burst-aoN3HWLbhdI-unsplash.jpg
 ---
-Elaine Showalter argues for 'gynocriticism' - that is, a form of literary criticism that enables women to read and analyze writing written by women. It is 'genuinely woman-centered, independent, and intellectually coherent' (Showalter 1981, p.183). Whilst this is undeniably fundamental to recognizing the role of women's writing to the literary canon, Schweickart (2008) makes a persuasive case for the creation of a literary technique that allows women to read andocentric texts as well.
+Elaine Showalter argues for 'gynocriticism' - that is, a form of literary criticism that enables women to read and analyze writing written by women. It is 'genuinely woman-centered, independent, and intellectually coherent' (Showalter 1981, p.183). Whilst this is undeniably fundamental to recognizing the role of women's writing to the literary canon, Schweickart (2008) makes a persuasive case for the creation of a literary technique that allows women to read andocentric texts as well.*
 
 Reader-response theory, made popular in the 70's by authors such as Iser and Barthes, argued for the active role of the reader. It lies in stark contrast to New Criticism, which elevates the text (poem or novel) into a 'fetishized art object' (Schweickart 2008, p.487) because, according to this school of thought, the text must be able to stand on its own as a work of art, and the reader (or writer) should not be of any real consideration when it comes to interpretation or determining meaning. 
 
@@ -25,7 +25,11 @@ However, the solution to this issue is not to avoid reading, or avoid reading an
 
 Schweickart (2008) proposes a bifurcated hermeneutic. The feminist reader, while reading, asks herself where the text gets its power to draw us in? Where does the irresistible power of these texts lie? Schweickart (2008) suggests that it is often the autonomous, active, desiring male subject who strenghtens the female desire for autonomy and love. 
 
-In this case, the reader can carry out the dual hermeneutic. That is, she can identify that the subject is male, it discloses complicity with patriarchal ideology, this is the negative hermeneutic. The positive hermeneutic aims to recuperate the authentic kernel of emotional power that is inherent in the text. It tries to reach the heart of the text, to uncover the emotional power that draws the reader in. 
+In this case, the reader can carry out the dual hermeneutic. That is, she can identify that the subject is male, it discloses complicity with patriarchal ideology, this is the negative hermeneutic. The positive hermeneutic aims to recuperate the authentic kernel of emotional power that is inherent in the text. It tries to reach the heart of the text, to uncover the emotional power that draws the reader in.
+
+In the next post, I'd like to briefly put this hermeneutic into practice.
+
+* I recognize that in the current climate, any reference to pronouns, male/ female writing is considered to be, or to risk, essentialism. This is an area of interest and I will be doing a lot of research into it in the next few posts.
 
 References:
 Fetterley, J. (1978) The Resisting Reader: A Feminist Approach to American Fiction, Bloomington: Indiana University Press.
