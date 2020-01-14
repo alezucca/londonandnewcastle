@@ -23,17 +23,16 @@ As she reads, she is required to work against herself. This, Fetterley (1978) te
 
 However, the solution to this issue is not to avoid reading, or avoid reading andocentric texts. It would be counter-productive to exclude the reading of texts written by males, and as Schweickart (2008) contends, there must be a way to understand and actively read these texts without undergoing the process of immasculation. There are texts, written by men, that despite having undergone thorough criticism, still evoke a certain emotional response from the reader. The feminist reader is aware of the ideology within the texts, she knows that the text is asking her to work against herself, and yet, the text still holds a certain appeal. Schweickart (2008) notes that this is not true for all texts, but for some. Rosen (2003) suggests that it is often within erotic texts that this occurs. So how can the active feminist reader approach these texts?
 
-Schweickart (2008) proposes a bifurcated hermeneutic. The feminist reader, while reading, asks herself where the text gets its power to draw us in? Where does the irresistible power of these texts lie? Schweickart (2008) suggests that it is often the autonomous, active, desiring male subject who strenghtens the female desire for autonomy and love. 
+Schweickart (2008) proposes a bifurcated hermeneutic. The feminist reader, while reading, asks herself where the text gets its power to draw us in? Where does the irresistible power of these texts lie? Schweickart (2008) suggests that it is often the autonomous, active, desiring male subject who strengthens the female desire for autonomy and love. 
 
 In this case, the reader can carry out the dual hermeneutic. That is, she can identify that the subject is male, it discloses complicity with patriarchal ideology, this is the negative hermeneutic. The positive hermeneutic aims to recuperate the authentic kernel of emotional power that is inherent in the text. It tries to reach the heart of the text, to uncover the emotional power that draws the reader in.
 
 In the next post, I'd like to briefly put this hermeneutic into practice.
 
-* I recognize that in the current climate, any reference to pronouns, male/ female writing is considered to be, or to risk, essentialism. This is an area of interest and I will be doing a lot of research into it in the next few posts.
+\*I recognize that in the current climate, any reference to pronouns, male/ female writing is considered to be, or to risk, essentialism. This is an area of interest and I will be doing a lot of research into it in the next few posts.
 
-References:
-Fetterley, J. (1978) The Resisting Reader: A Feminist Approach to American Fiction, Bloomington: Indiana University Press.
+References: Fetterley, J. (1978) The Resisting Reader: A Feminist Approach to American Fiction, Bloomington: Indiana University Press.
 Iser, W. (2008) 'The reading process: a phenomenological approach', in Lodge, D. and Wood, N. (eds.), Modern Criticism and Theory: A Reader, 3rd ed., Harlow: Pearson Education Limited, 295-310.
 Rosen, T. (2003) Unveiling Eve: Reading Gender in Medieval Hebrew Literature, University of Pennsylvania Press.
 Schweickart, P. P (2008) 'Reading ourselves: toward a feminist theory of reading', in Lodge, D. and Wood, N. (eds.), Modern Criticism and Theory: A Reader, 3rd ed., Harlow: Pearson Education Limited, 485-505.
-Showalter, E.(1981) 'Feminist Criticism in the Wilderness', *Critical Inquiry*, 8[1981], 182-185.
+Showalter, E.(1981) 'Feminist Criticism in the Wilderness', *Critical Inquiry*, 8\[1981], 182-185.
