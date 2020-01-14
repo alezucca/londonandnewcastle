@@ -33,8 +33,12 @@ In the next post, I'd like to briefly put this hermeneutic into practice.
 
 References:
 
-Fetterley, J. (1978) *The Resisting Reader: A Feminist Approach to American Fiction*, Bloomington: Indiana University Press.
-Iser, W. (2008) 'The reading process: a phenomenological approach', in Lodge, D. and Wood, N. (eds.), *Modern Criticism and Theory: A Reader*, 3rd ed., Harlow: Pearson Education Limited, 295-310.
-Rosen, T. (2003) *Unveiling Eve: Reading Gender in Medieval Hebrew Literature*, Pennsylvania: University of Pennsylvania Press.
-Schweickart, P. P. (2008) 'Reading ourselves: toward a feminist theory of reading', in Lodge, D. and Wood, N. (eds.), *Modern Criticism and Theory: A Reader*, 3rd ed., Harlow: Pearson Education Limited, 485-505.
+Fetterley, J. (1978) *The Resisting Reader: A Feminist Approach to American Fiction*, Bloomington: Indiana University Press.\
+
+Iser, W. (2008) 'The reading process: a phenomenological approach', in Lodge, D. and Wood, N. (eds.), *Modern Criticism and Theory: A Reader*, 3rd ed., Harlow: Pearson Education Limited, 295-310.\
+
+Rosen, T. (2003) *Unveiling Eve: Reading Gender in Medieval Hebrew Literature*, Pennsylvania: University of Pennsylvania Press.\
+
+Schweickart, P. P. (2008) 'Reading ourselves: toward a feminist theory of reading', in Lodge, D. and Wood, N. (eds.), *Modern Criticism and Theory: A Reader*, 3rd ed., Harlow: Pearson Education Limited, 485-505.\
+
 Showalter, E.(1981) 'Feminist Criticism in the Wilderness', *Critical Inquiry*, 8\[1981], 182-185.
