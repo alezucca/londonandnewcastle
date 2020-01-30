@@ -9,6 +9,11 @@
 
     <div class="measure">
       <article class="post-content">
+        {{ if .Params.thumbnail }}
+        <div class="post-image">
+          <img src="{{ .Params.thumbnail }}" />
+        </div>
+        {{ end }}
         {{ .Content }}
       </article>
 
