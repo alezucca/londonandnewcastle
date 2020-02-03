@@ -6,10 +6,19 @@
     <description>Recent content in Tags on London &amp; Newcastle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Nov 2019 15:44:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Feb 2020 11:00:06 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>/tags/</link>
+      <pubDate>Mon, 03 Feb 2020 11:00:06 +0000</pubDate>
+      
+      <guid>/tags/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Apple Podcast</title>
@@ -35,6 +44,15 @@
       <pubDate>Tue, 26 Mar 2019 11:54:47 +0000</pubDate>
       
       <guid>/tags/colonisation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Confessional Poetry</title>
+      <link>/tags/confessional-poetry/</link>
+      <pubDate>Mon, 03 Feb 2020 11:00:06 +0000</pubDate>
+      
+      <guid>/tags/confessional-poetry/</guid>
       <description></description>
     </item>
     
@@ -89,6 +107,15 @@
       <pubDate>Wed, 09 Jan 2019 17:17:29 +0000</pubDate>
       
       <guid>/tags/hello/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hermeneutics</title>
+      <link>/tags/hermeneutics/</link>
+      <pubDate>Mon, 03 Feb 2020 11:00:06 +0000</pubDate>
+      
+      <guid>/tags/hermeneutics/</guid>
       <description></description>
     </item>
     
@@ -152,6 +179,24 @@
       <pubDate>Mon, 13 Jan 2020 11:16:41 +0000</pubDate>
       
       <guid>/tags/reader-response/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reader Response Theory</title>
+      <link>/tags/reader-response-theory/</link>
+      <pubDate>Mon, 03 Feb 2020 11:00:06 +0000</pubDate>
+      
+      <guid>/tags/reader-response-theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Snodgrass</title>
+      <link>/tags/snodgrass/</link>
+      <pubDate>Mon, 03 Feb 2020 11:00:06 +0000</pubDate>
+      
+      <guid>/tags/snodgrass/</guid>
       <description></description>
     </item>
     
