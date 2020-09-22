@@ -6,4 +6,8 @@ author: Alessia Zuccarelli
 draft: false
 thumbnail: /uploads/luca-laurence-zrqrp9xs2vi-unsplash.jpg
 ---
+<div style="text-align: center">
+
 [![Foo](/uploads/button_submit.png)](https://www.londonandnewcastle.com/submissions/)
+
+</div>
