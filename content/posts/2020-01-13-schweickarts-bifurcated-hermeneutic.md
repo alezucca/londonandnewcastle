@@ -1,9 +1,9 @@
 ---
-title: 'Schweickart''s Bifurcated Hermeneutic '
+title: "Schweickart's Bifurcated Hermeneutic "
 date: 2020-01-13T11:16:41.812Z
 type: post
 author: Alessia Zuccarelli
-draft: false
+draft: true
 tags:
   - reader-response
   - critical theory
