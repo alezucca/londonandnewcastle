@@ -1,12 +1,11 @@
 ---
 title: The Body without Organs and Aronofsky's Black Swan
-date: "2019-03-06T00:00:00+00:00"
-description: >-
-  The idea of the self as a fixed entity is challenged by deconstruction and
-  poststructural feminism.
+date: 2019-03-06T00:00:00+00:00
+description: The idea of the self as a fixed entity is challenged by
+  deconstruction and poststructural feminism.
 type: post
 author: Alessia Zuccarelli
-draft: false
+draft: true
 thumbnail: /uploads/natalie-portman-21468.jpg
 ---
 
