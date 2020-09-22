@@ -3,13 +3,13 @@ title: W.D. Snodgrass and Schweickart's Dual Hermeneutic
 date: 2020-02-03T11:00:06.737Z
 type: post
 author: Alessia Zuccarelli
-draft: false
+draft: true
 tags:
   - hermeneutics
   - snodgrass
   - confessional poetry
   - reader response theory
-  - ''
+  - ""
 thumbnail: /uploads/lauren-lulu-taylor-vppMdk_GMo4-unsplash.jpg
 ---
 In my last post, I briefly examined Schweickart’s dual hermeneutic that can be applied to androcentric texts. In today’s post, I want to apply that theory to a cycle of confessional poetry by W.D. Snodgrass. This poetry is not usually considered to be ideologically problematic, particularly because confessional poetry links the speaker of the poem and the poet so closely and because the emotional anguish and vulnerability of the poetry tend to lead the reader to believe that this poetry speaks to a universal human condition.
