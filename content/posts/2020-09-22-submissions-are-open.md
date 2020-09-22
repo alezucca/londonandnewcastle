@@ -19,3 +19,4 @@ Guidelines:
 * Please only submit original, unpublished work to the zine. If your piece gets published it will still remain your property, we simply ask that if you choose to republish it elsewhere you credit London and Newcastle.
 * We will review each submission and send feedback within 1 month of receiving it.
 * All work will be anonymised before being reviewed.
+* Please ensure all work that is submitted is edited. Any grammatical errors will be corrected if your piece gets published.
