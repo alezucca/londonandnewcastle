@@ -14,7 +14,7 @@ Visit our [Submissions](https://www.londonandnewcastle.com/submissions/) page to
 
 Guidelines:
 
-* Essays/ short stories up to 1000 words. (Only one story per application, you can submit more than one piece if you like.)
+* Essays/ short stories up to 1000 words. (Only one piece per submission. You can submit more than one piece but this must be done separately.)
 * Poems up to 30 lines. You can submit up to 3 poems per application.
 * Please only submit original, unpublished work to the zine. If your piece gets published it will still remain your property, we simply ask that if you choose to republish it elsewhere you credit London and Newcastle.
 * We will review each submission and send feedback within 1 month of receiving it.
