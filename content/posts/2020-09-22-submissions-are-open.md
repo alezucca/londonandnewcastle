@@ -6,7 +6,7 @@ author: Alessia Zuccarelli
 draft: false
 thumbnail: /uploads/luca-laurence-zrqrp9xs2vi-unsplash.jpg
 ---
-We are now taking submissions for our first ever edition of London and Newcastle literary zine!
+We are now taking submissions for our first ever edition of London and Newcastle literary zine! The theme for this edition is 'existence'.
 
 Visit our [Submissions](https://www.londonandnewcastle.com/submissions/) page to send us your short story, poem, flash fiction, or creative non-fiction. Please upload your work by following the link below.
 
