@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on London &amp; Newcastle</title>
-    <link>/posts/</link>
+    <link>https://alezucca.github.io/londonandnewcastle/posts/</link>
     <description>Recent content in Posts on London &amp; Newcastle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 22 Sep 2020 16:18:52 +0000</lastBuildDate>
     
-	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alezucca.github.io/londonandnewcastle/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Submissions are open</title>
-      <link>/posts/2020-09-22-submissions-are-open/</link>
+      <link>https://alezucca.github.io/londonandnewcastle/posts/2020-09-22-submissions-are-open/</link>
       <pubDate>Tue, 22 Sep 2020 16:18:52 +0000</pubDate>
       
-      <guid>/posts/2020-09-22-submissions-are-open/</guid>
+      <guid>https://alezucca.github.io/londonandnewcastle/posts/2020-09-22-submissions-are-open/</guid>
       <description>We are now taking submissions for our first ever edition of London and Newcastle literary zine! The theme for this edition is &amp;lsquo;existence&amp;rsquo;.
 Visit our Submissions page to send us your short story, poem, flash fiction, or creative non-fiction. Please upload your work by following the link below.
 
